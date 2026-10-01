@@ -25,4 +25,4 @@ El presente documento define los requerimientos para el desarrollo de la aplicac
 * **RNF04 (Seguridad):** La aplicación debe cerrar automáticamente la sesión después de 5 minutos de inactividad.
 
 ## 5.Requerimientos de Dominio
-* **RD01:** El servicio web debe configurarse bajo la extensión de dominio '.net'. 
+* **RD01:** El servicio web debe configurarse bajo la extensión de dominio ".net". 
